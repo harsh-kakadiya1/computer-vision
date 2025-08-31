@@ -34,5 +34,3 @@ Upload sample images for each filter below:
 
 ### Depth
 ![Depth](images/depth_sample.jpg)
-
-Create an `images` folder and upload your filter result screenshots there.
