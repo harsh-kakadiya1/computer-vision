@@ -69,7 +69,7 @@ elif USE_OLD_API:
 
 # Load cat images
 CAT_IMAGES = {
-    'tongue_out': 'toung out.jpeg',
+    'tongue_out': 'tongue out.jpeg',
     'shocked': 'shocked.jpeg',
     'staring': 'staring.jpeg',
     'side_look': 'giving side look.jpeg'
